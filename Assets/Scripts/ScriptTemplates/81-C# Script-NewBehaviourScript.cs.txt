@@ -1,0 +1,34 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    #region Editor Fields
+    #endregion
+
+    #region Fields
+    #endregion
+
+    #region Properties
+    #endregion
+
+    #region Events
+    #endregion
+
+    #region Mono
+    void Awake()
+    {
+        #NOTRIM#
+    }
+    #endregion
+
+    #region Methods
+    #endregion
+
+    #region EventHandlers
+    #endregion
+}
+#ROOTNAMESPACEEND#
